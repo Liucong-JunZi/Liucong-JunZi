@@ -42,17 +42,8 @@
 
 ---
 
-## 🪄 魔法签名 / Motto
+## 签名 / Motto
 
 > “那些杀不死我的会让我变得更加强大。”
 
----
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Stay+hungry,+stay+foolish.+Keep+coding,+keep+dreaming!" />
-</div>
-
-<!-- 魔法彩带动效 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Have%20a%20Magical%20Day!%20✨&fontSize=28" />
-</div>
