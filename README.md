@@ -35,7 +35,7 @@
 ## ✨ Contact & Links
 
 - 📫 Email: lc20040517@gmail.com
-- 🐧 QQ: 2422451352
+- 🐧 QQ: 2765692587
 - 🧙‍♂️ VX: liucong233333
 - 👀 [我的知乎](https://www.zhihu.com/people/da-bu-cong)
 - 🌏 [个人博客（如有）](#)
