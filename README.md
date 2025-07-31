@@ -38,7 +38,6 @@
 - 🐧 QQ: 2765692587
 - 🧙‍♂️ VX: liucong233333
 - 👀 [我的知乎](https://www.zhihu.com/people/da-bu-cong)
-- 🌏 [个人博客（如有）](#)
 
 ---
 
