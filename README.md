@@ -1,13 +1,4 @@
-<!-- 魔法动效（部分平台支持，移动端/PC端查看效果略有不同） -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=3EE6C4&vCenter=true&width=450&lines=%F0%9F%8C%88+Welcome+to+my+Magical+Space!+%F0%9F%8C%88;Liucong+%7C+SDU+%7C+AI+%7C+Math+%7C+Dreamer;Code+%E2%9D%A4%EF%B8%8F+Magic;Let%27s+explore+together..." alt="Typing SVG" />
-</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYzYzI3ZTZiYjAyZDgwZWM4YjZhM2E1YWMwZjUwYjY1YjViMTQ3MiZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="240" />
-</div>
-
----
 
 ## 🧙‍♂️ About Me
 
