@@ -28,15 +28,7 @@ class LiuCong:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -53,16 +45,13 @@ class LiuCong:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Liucong-JunZi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Liucong-JunZi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Liucong-JunZi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/> <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Liucong-JunZi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=Liucong-JunZi&theme=tokyonight&hide_border=true"/>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liucong-JunZi&theme=tokyonight"/>
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liucong-JunZi&theme=tokyonight"/>
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Liucong-JunZi&theme=tokyonight"/>
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Liucong-JunZi&theme=tokyonight&utcOffset=8"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liucong-JunZi&theme=tokyonight"/> <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Liucong-JunZi&theme=tokyonight"/> <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Liucong-JunZi&theme=tokyonight&utcOffset=8"/>
 
 </div>
 
