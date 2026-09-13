@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64">
+<defs>
+<clipPath id="r"><rect width="900" height="64" rx="12"/></clipPath>
+<style>.t{font:400 14px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,monospace}</style></defs>
+
+<g clip-path="url(#r)">
+  <rect width="900" height="64" fill="#1a1b26"/>
+  <text x="28" y="39" class="t"><tspan fill="#7aa2f7">email</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">lc20040517@gmail.com</tspan></text><text x="311.03999999999996" y="39" class="t"><tspan fill="#7dcfff">zhihu</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">da-bu-cong</tspan></text><text x="507.28" y="39" class="t"><tspan fill="#bb9af7">qq</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">2765692587</tspan></text><text x="677.48" y="39" class="t"><tspan fill="#9ece6a">wechat</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">liucong233333</tspan></text>
+</g>
+<rect x="0.5" y="0.5" width="899" height="63" rx="12" fill="none" stroke="#2f3549"/>
+</svg>

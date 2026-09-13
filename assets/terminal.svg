@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="356" viewBox="0 0 900 356">
+<defs>
+<clipPath id="r"><rect width="900" height="356" rx="14"/></clipPath>
+<style>
+  .t{font:400 15px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,monospace}
+</style></defs>
+
+<g clip-path="url(#r)">
+  <rect width="900" height="356" fill="#1a1b26"/>
+  <rect width="900" height="40" fill="#24283b"/>
+  <circle cx="22" cy="20" r="6" fill="#f7768e"/><circle cx="42" cy="20" r="6" fill="#e0af68"/><circle cx="62" cy="20" r="6" fill="#9ece6a"/>
+  <text x="450.0" y="25" text-anchor="middle" class="t" fill="#565f89" font-size="13">liucong@sdu — zsh</text>
+  <text x="28" y="76" class="t"><tspan fill="#9ece6a">$ </tspan><tspan fill="#7dcfff">whoami</tspan></text>
+<text x="28" y="100" class="t" fill="#c0caf5">liucong — a math major crossing over into CS</text>
+<text x="28" y="148" class="t"><tspan fill="#9ece6a">$ </tspan><tspan fill="#7dcfff">cat interests</tspan></text>
+<text x="28" y="172" class="t" fill="#c0caf5">数学 · 机器学习 / LLM · 高性能计算 (CUDA) · AI Agents</text>
+<text x="28" y="220" class="t"><tspan fill="#9ece6a">$ </tspan><tspan fill="#7dcfff">cat goal</tspan></text>
+<text x="28" y="244" class="t" fill="#c0caf5">数学 → 跨考 408，用代码把奇思妙想落地</text>
+<text x="28" y="292" class="t"><tspan fill="#9ece6a">$ </tspan><tspan fill="#7dcfff">echo $MOTTO</tspan></text>
+<text x="28" y="316" class="t" fill="#e0af68">"那些杀不死我的，会让我变得更加强大。"</text>
+<rect x="28" y="326" width="9" height="17" fill="#c0caf5" fill-opacity="0.85"><animate attributeName="fill-opacity" values="0.85;0;0.85" dur="1.2s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="0.5" y="0.5" width="899" height="355" rx="14" fill="none" stroke="#2f3549"/>
+</svg>

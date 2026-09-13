@@ -15,13 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate snake svg (Nord palette)
+      - name: Generate snake svg (Tokyo Night palette)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%235E81AC&color_dots=%23ECEFF4,%23D8DEE9,%23A3BE8C,%2381A1C1,%235E81AC
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2388C0D0&color_dots=%232E3440,%233B4252,%234C566A,%2381A1C1,%2388C0D0
+            dist/github-contribution-grid-snake.svg?color_snake=%23ff9e64&color_dots=%23e9ebf3,%23a9b1d6,%237aa2f7,%23bb9af7,%233d59a1
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ff9e64&color_dots=%2324283b,%233d59a1,%237aa2f7,%23bb9af7,%23c0caf5
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
