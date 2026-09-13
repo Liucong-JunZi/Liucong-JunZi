@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="188" viewBox="0 0 440 188">
+<defs>
+<clipPath id="r"><rect width="440" height="188" rx="12"/></clipPath>
+<style>
+  .n{font:700 17px -apple-system,'Segoe UI','PingFang SC','Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif}
+  .d{font:400 13px -apple-system,'Segoe UI','PingFang SC','Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif;fill:#a9b1d6}
+  .g{font:500 11.5px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,monospace}
+</style></defs>
+
+<g clip-path="url(#r)">
+  <rect width="440" height="188" fill="#1a1b26"/>
+  <rect width="4" height="188" fill="#ff9e64"/>
+  <text x="28" y="44" class="n" fill="#c0caf5">FinanceVision-AIagent</text>
+  <text x="414" y="44" text-anchor="end" class="g" fill="#565f89">↗</text>
+  <text x="28" y="76" class="d">端到端金融视频流水线：实时行情抓取 → DeepSeek-R1 生成文案</text><text x="28" y="97" class="d">→ 火山 TTS 配音 → 自动剪辑成片。</text>
+  <rect x="28" y="146" width="59" height="22" rx="11" fill="#7aa2f7" fill-opacity="0.13" stroke="#7aa2f7" stroke-opacity="0.45"/><text x="57.5" y="161" text-anchor="middle" class="g" fill="#7aa2f7">Python</text><rect x="95" y="146" width="43" height="22" rx="11" fill="#bb9af7" fill-opacity="0.13" stroke="#bb9af7" stroke-opacity="0.45"/><text x="116.5" y="161" text-anchor="middle" class="g" fill="#bb9af7">LLM</text>
+</g>
+<rect x="0.5" y="0.5" width="439" height="187" rx="12" fill="none" stroke="#2f3549"/>
+</svg>

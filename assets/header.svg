@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#7aa2f7"/><stop offset="0.55" stop-color="#bb9af7"/><stop offset="1" stop-color="#ff9e64"/>
+</linearGradient>
+<radialGradient id="glow1" cx="0.85" cy="0.1" r="0.6">
+  <stop offset="0" stop-color="#bb9af7" stop-opacity="0.35"/><stop offset="1" stop-color="#bb9af7" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="glow2" cx="0.1" cy="0.95" r="0.6">
+  <stop offset="0" stop-color="#7aa2f7" stop-opacity="0.30"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/>
+</radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+  <path d="M28 0H0V28" fill="none" stroke="#c0caf5" stroke-opacity="0.045" stroke-width="1"/>
+</pattern>
+<clipPath id="r"><rect width="900" height="260" rx="16"/></clipPath>
+<style>
+  .name{font:700 46px -apple-system,'Segoe UI','PingFang SC','Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif;letter-spacing:1px}
+  .sub{font:400 15px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,monospace;fill:#565f89}
+  .tag{font:500 13px 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,monospace}
+</style></defs>
+
+<g clip-path="url(#r)">
+  <rect width="900" height="260" fill="#1a1b26"/>
+  <rect width="900" height="260" fill="url(#grid)"/>
+  <rect width="900" height="260" fill="url(#glow1)"/>
+  <rect width="900" height="260" fill="url(#glow2)"/>
+  <!-- code fragments as texture -->
+  <g class="sub" fill="#565f89" fill-opacity="0.55">
+    <text x="600" y="72">__global__ void bfs_kernel(</text>
+    <text x="600" y="96">    const int* __restrict__ row,</text>
+    <text x="600" y="120">    const int* __restrict__ col,</text>
+    <text x="600" y="144">    int* girth)</text>
+    <text x="600" y="168">{ atomicMin(girth, d + 1); }</text>
+  </g>
+  <text x="56" y="118" class="name" fill="url(#g)">刘小聪 <tspan fill="#c0caf5" font-weight="300">/</tspan> Liu Cong</text>
+  <text x="58" y="152" class="sub">math major → computer science · 山东大学（威海）</text>
+  <g class="tag" transform="translate(56,184)">
+    <rect width="72" height="26" rx="13" fill="#7aa2f7" fill-opacity="0.14" stroke="#7aa2f7" stroke-opacity="0.5"/>
+    <text x="36" y="17.5" text-anchor="middle" fill="#7aa2f7">CUDA</text>
+    <rect x="82" width="88" height="26" rx="13" fill="#bb9af7" fill-opacity="0.14" stroke="#bb9af7" stroke-opacity="0.5"/>
+    <text x="126" y="17.5" text-anchor="middle" fill="#bb9af7">LLM · RAG</text>
+    <rect x="180" width="90" height="26" rx="13" fill="#7dcfff" fill-opacity="0.14" stroke="#7dcfff" stroke-opacity="0.5"/>
+    <text x="225" y="17.5" text-anchor="middle" fill="#7dcfff">AI Agents</text>
+    <rect x="280" width="60" height="26" rx="13" fill="#ff9e64" fill-opacity="0.14" stroke="#ff9e64" stroke-opacity="0.5"/>
+    <text x="310" y="17.5" text-anchor="middle" fill="#ff9e64">HPC</text>
+  </g>
+  <rect x="0" y="256" width="900" height="4" fill="url(#g)"/>
+</g>
+<rect x="0.5" y="0.5" width="899" height="259" rx="16" fill="none" stroke="#2f3549"/>
+</svg>
