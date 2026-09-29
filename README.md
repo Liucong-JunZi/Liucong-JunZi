@@ -1,57 +1,18 @@
-<div align="center">
+# 刘小聪 · Liu Cong
 
-<img src="assets/header.svg" width="100%" alt="刘小聪 · Liu Cong" />
+山东大学（威海）数学专业本科生，关注计算机系统与人工智能。
 
-</div>
+兴趣方向：CUDA / 高性能计算、机器学习与 LLM、AI Agent。
 
-<br/>
+## 项目
 
-<img src="assets/terminal.svg" width="100%" alt="whoami" />
+- [cuda-girth](https://github.com/Liucong-JunZi/cuda-girth)：使用 CUDA 计算大规模图的 girth。
+- [Voice × Computer Dual-Agent](https://github.com/Liucong-JunZi/Agent-operating-the-computer-while-on-a-phone-call)：语音 Agent 与电脑操作 Agent 协同工作。
+- [FinanceVision-AIagent](https://github.com/Liucong-JunZi/FinanceVision-AIagent)：自动生成金融视频的处理流水线。
+- [Image Search Eval](https://github.com/Liucong-JunZi/Personal-image-search-engine-reference-problem-solution)：以文搜图检索与评测。
+- [JUNzi Web](https://github.com/Liucong-JunZi/JUNzi-s-web)：个人网站与作品集。
+- [Xiyou Galgame](https://github.com/Liucong-JunZi/Xiyou_galgame-base-on-Librian)：基于 Librian 的《西游记》文字冒险游戏。
 
-<br/><br/>
+## 联系
 
-<img src="assets/sec-projects.svg" width="100%" alt="Projects" />
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Liucong-JunZi/cuda-girth"><img src="assets/projects/cuda-girth.svg" width="49%" alt="cuda-girth" /></a> <a href="https://github.com/Liucong-JunZi/Agent-operating-the-computer-while-on-a-phone-call"><img src="assets/projects/dual-agent.svg" width="49%" alt="Voice × Computer Dual-Agent" /></a>
-<a href="https://github.com/Liucong-JunZi/FinanceVision-AIagent"><img src="assets/projects/financevision.svg" width="49%" alt="FinanceVision-AIagent" /></a> <a href="https://github.com/Liucong-JunZi/Personal-image-search-engine-reference-problem-solution"><img src="assets/projects/image-search.svg" width="49%" alt="Image Search Eval" /></a>
-<a href="https://github.com/Liucong-JunZi/JUNzi-s-web"><img src="assets/projects/junzi-web.svg" width="49%" alt="JUNzi Web" /></a> <a href="https://github.com/Liucong-JunZi/Xiyou_galgame-base-on-Librian"><img src="assets/projects/xiyou-galgame.svg" width="49%" alt="Xiyou Galgame" /></a>
-
-</div>
-
-<br/>
-
-<img src="assets/sec-activity.svg" width="100%" alt="Activity" />
-
-<br/>
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liucong-JunZi&theme=tokyonight" alt="stats" /> <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liucong-JunZi&theme=tokyonight" alt="languages" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Liucong-JunZi/Liucong-JunZi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Liucong-JunZi/Liucong-JunZi/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Liucong-JunZi/Liucong-JunZi/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<img src="assets/sec-contact.svg" width="100%" alt="Contact" />
-
-<br/>
-
-<a href="mailto:lc20040517@gmail.com"><img src="assets/contact.svg" width="100%" alt="email · zhihu · qq · wechat" /></a>
-
-<br/><br/>
-
-<div align="center">
-<sub>Was mich nicht umbringt, macht mich stärker. — Nietzsche</sub>
-</div>
+[lc20040517@gmail.com](mailto:lc20040517@gmail.com) · [知乎](https://www.zhihu.com/people/da-bu-cong)
